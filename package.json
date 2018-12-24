@@ -1,0 +1,13 @@
+{
+  "name": "tmdb-export",
+  "author": "Michael Rhodes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fast-json-parse": "^1.0.3",
+    "pumpify": "^1.5.1",
+    "split2": "^3.1.0",
+    "through2": "^3.0.0"
+  }
+}
